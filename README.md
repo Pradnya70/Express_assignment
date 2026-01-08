@@ -108,6 +108,7 @@ All protected routes need: Authorization: Bearer <token>
 ![Postman Collection](images/image-12.png)
 
 
+
 # 🧪 **Postman Collection** (16 Automated Tests)
 
 ### 🔗 **Option 1: Live Run Button (Recommended)**
