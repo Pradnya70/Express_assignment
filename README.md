@@ -94,24 +94,25 @@ All protected routes need: Authorization: Bearer <token>
 🧪 Postman Collection
 📥 Import: postman_collection.json
 ![Postman Collection](images/image.png)
+(images/image-1.png)
+(images/image-2.png)
+(images/image-3.png)
+(images/image-4.png)
+(images/image-5.png)
+(images/image-6.png)
+(images/image-7.png)
+(images/image-8.png)
+(images/image-9.png)
+(images/image-10.png)
+(images/image-11.png)
+(images/image-12.png)
+
 # 🧪 **Postman Collection** (16 Automated Tests)
 
 ### 🔗 **Option 1: Live Run Button (Recommended)**
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://rf7777-5334.postman.co/workspace/Pradnya-Waghmare
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
-![alt text](image-12.png)
+
 
 Test flow:
 
