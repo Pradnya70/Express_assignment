@@ -94,6 +94,7 @@ All protected routes need: Authorization: Bearer <token>
 🧪 Postman Collection
 📥 Import: postman_collection.json
 ![Postman Collection](images/image.png)
+![Postman Tests](images/image.png)
 (images/image-1.png)
 (images/image-2.png)
 (images/image-3.png)
